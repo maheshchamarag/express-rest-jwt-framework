@@ -4,7 +4,7 @@ This is an Express JS 4 Rest framework
 This framework has
 JWT authentication,
 role based authorizations,
-Mocha and Chai used for test cases
+Mocha and Chai (used for unit testing)
 
 To run the framework do following steps
 
