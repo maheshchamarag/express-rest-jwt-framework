@@ -10,6 +10,7 @@ To run the framework do following steps
 
 1. cd Express-rest-framework-jwt
 2. npm install
-3. node ./bin/www
+3. to run test case : run "$npm test"
+4. to run server : run "$npm start"
 
 
